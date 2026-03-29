@@ -1,0 +1,15 @@
+{
+  "name": "fluffydiscord/fast-pgsql-mapper-stubs",
+  "description": "IDE stubs for the pg_fast_query C extension",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "ext-pgsql": "*"
+  },
+  "autoload": {
+    "files": [
+      "pg_fast_query.stub.php"
+    ]
+  }
+}
