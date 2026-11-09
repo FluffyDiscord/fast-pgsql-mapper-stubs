@@ -4,8 +4,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "php": "^8.5",
-    "ext-pgsql": "*"
+    "php": "^8.5"
   },
   "autoload": {
     "files": [
